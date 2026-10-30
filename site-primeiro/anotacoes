@@ -1,0 +1,7 @@
+fork: clonar um repositório e depois subir ele para o seu repositório pessoal
+issue: sugerir correções no código do amiguinho.
+push: enviar os arquivos para o repositório.
+pull: puxa os arquivos do repositório.
+projetos antigos pro git: basta criar um repositório novo, copiar e colar os arquivos antigos dentro desse novo arquivo e depois fazer o commit com os novos arquivos.
+ctrl p: atalho para fazer um push no github desktop.
+ctrl enter: atalho para dar commit no git hub desktop.
